@@ -1,0 +1,28 @@
+body {
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+    
+    .file {
+        border: 1px solid #d2d2d2;
+    }
+    
+    #filecontent {
+        border: 1px solid grey;
+        height: 500px;
+        background: #d2d2d2;
+        color: #000;
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 26.4px;
+        padding-left: 40px;
+        margin-top: 5px;
+        overflow-y: auto;
+    }
+    
+    #download_link {
+        display: none;
+        text-decoration: none;
+        font-size: 10px;
+        line-height: 20px;
+        margin-top: 30px;
+    }
