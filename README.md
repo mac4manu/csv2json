@@ -1,2 +1,2 @@
-# csv2json
+# csv to json
 CSV to JSON
