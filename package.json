@@ -1,6 +1,6 @@
 {
   "name": "csv2json-generator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Application to generate JSON from CSV",
   "main": "bundle.js",
   "dependencies": {
