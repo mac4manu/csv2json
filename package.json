@@ -1,5 +1,5 @@
 {
-  "name": "csv2json",
+  "name": "csv2json-generator",
   "version": "1.0.0",
   "description": "Application to generate JSON from CSV",
   "main": "bundle.js",
